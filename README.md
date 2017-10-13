@@ -9,7 +9,15 @@ Nato zazenite ibus-setup (ibus sistem lahko namestite tudi s klikanjem po nastav
 
 * ibus-setup
 
-Nato zaženite ``make'' (sistem bo od vas zahteval root geslo), in stvar bi morala delat. Mogoce je potreben še kakšen login/logout.
+(pri meni se je pojavila napaka, ki pa ni vplivala na delovanje. Vseeno nadaljujte z naslednjo točko)
+
+Nato zaženite še:
+
+* make
+
+Sistem bo od vas zahteval geslo (za sudo) in potrebne stvari se bodo namestile na prava mesta. 
+
+Mogoce je potreben še kakšen login/logout (pri meni to ni bilo potrebno).
 
 Izberite tipkovnico "Slovenian - US keyboard w/ LaTeX mode" in sistem IBus (obvezno!). S pritiskom tipke shift vklapljate in izklapljate popravljanje "si"cnikov v šumnike. 
 
