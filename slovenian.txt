@@ -50,7 +50,7 @@ AUTHOR = Samo Penič <samo.penic@gmail.com>
 STATUS_PROMPT = LaTeXsL
 
 ### Valid input chars.
-VALID_INPUT_CHARS = '"sScCzZ
+VALID_INPUT_CHARS = '"sScCzZdD
 
 ### Layout
 LAYOUT = us
@@ -122,6 +122,8 @@ BEGIN_TABLE
 "c	č	1
 'c	ć	1
 'C	Ć	1
+'D	Đ	1
+'d	đ	1
 "z	ž	1
 "S	Š	1
 "C	Č	1
@@ -134,6 +136,8 @@ C	C	1
 c	c	1
 Z	Z	1
 z	z	1
+d	d	1
+D	D	1
 END_TABlE
 
 ### Since some input methods use different table for every character to make

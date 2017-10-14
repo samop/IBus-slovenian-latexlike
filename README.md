@@ -24,4 +24,18 @@ Izberite tipkovnico "Slovenian - US keyboard w/ LaTeX mode" in sistem IBus (obve
 
 (vklapljanja in izklapljanja ne znam preprečiti. se priporočam za kakšen popravek)
 
-Samo.
+
+
+Mapingi:
+
+"C -> Č
+"c -> č
+'C -> Ć
+'c -> ć
+'d -> đ
+'D -> Đ
+"S -> Š
+"s -> š
+"z -> ž
+"Z -> Ž
+
