@@ -50,7 +50,7 @@ AUTHOR = Samo Penič <samo.penic@gmail.com>
 STATUS_PROMPT = LaTeXsL
 
 ### Valid input chars.
-VALID_INPUT_CHARS = "sScCzZ
+VALID_INPUT_CHARS = '"sScCzZ
 
 ### Layout
 LAYOUT = us
@@ -120,11 +120,14 @@ END_DEFINITION
 BEGIN_TABLE
 "s	š	1
 "c	č	1
+'c	ć	1
+'C	Ć	1
 "z	ž	1
 "S	Š	1
 "C	Č	1
 "Z	Ž	1
 "	"	1
+'	'	1
 s	s	1
 S	S	1
 C	C	1
